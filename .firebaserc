@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "filebase-sample",
+    "default": "filebase-sample"
+  }
+}
